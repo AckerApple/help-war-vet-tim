@@ -25,6 +25,9 @@ A programmers public approach to find monetary support for a war veteran very mu
 
 ## General Research Needs
 - Research donation platforms
+  - Have awareness of how funds flow and what accounts are needed
+    - Have plan of what and whos emails to use to sign up for accounts
+  - Reduce chances of issues or problems due to donation collecting
 - Ensure clear legitmacy
   - Clear seperation of outside funds for campaign separate from funds collected
     - Currently, campaign efforts are all funded by Acker Apple
