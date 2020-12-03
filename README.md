@@ -1,4 +1,4 @@
-# help-war-vet-tim
+# Help War Vet Tim
 A programmers public approach to find monetary support for a war veteran very much in need of assistance
 
 ## Goals
