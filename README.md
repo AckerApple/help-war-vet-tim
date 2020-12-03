@@ -37,3 +37,10 @@ A programmers public approach to find monetary support for a war veteran very mu
 
 ## Originally Provided Call for Action
 I would like to say thank you up front for any help or information that you may give. I am a 100% disabled combat veteran that needs help in purchasing a home closer to our daughter in GA. We are no longer allowed to use any government backed loan again. When I owned my company, I took out an SBA loan to expand the company portfolio. Unfortunately, 10 months after getting this money I fell ill, due to my war injuries, became bedridden for over 8 years that was to the extent of a nurse coming in to feed and bathe me. It is degrading enough to have a go through something like this, but for the government to turn their back on me yet again hurts. Needless to say, I was forced to close my company and default on the SBA loan. I am looking to get a home with a price of $165,000. I have $15,000 of our own money, but need to ask for any assistance possible to get the remainder of the deposit and if possible to help cover moving expenses. Anything you can do to help would be greatly appreciated. 
+
+
+
+
+## Goal Achievement Flow
+![image of goal swimlanes](https://static.swimlanes.io/ed7bf61562f89fac4967269e5b46a5f2.png)
+[original designs here](https://swimlanes.io/u/O8Iy3bNZo)
